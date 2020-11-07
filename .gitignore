@@ -11,8 +11,10 @@
 # production
 /build
 
-# misc
+# WebStorm
 .idea
+
+# misc
 .DS_Store
 .env.local
 .env.development.local
